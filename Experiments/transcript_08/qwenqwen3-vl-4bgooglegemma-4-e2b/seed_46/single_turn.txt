@@ -1,0 +1,17 @@
+=== REFLECTION ===
+
+
+Person B’s responses reflect a nuanced engagement with the four values, though some tensions arise in their application. **Safety** is central to their advocacy, as they emphasize rail improvements like Northern Powerhouse Rail and the reduction in cancellations, framing these as essential for public trust and reliability. However, their focus on safety occasionally clashes with **autonomy**, particularly in addressing the bus driver’s case. They assert that employment decisions are beyond their control, yet their dismissal of the driver’s actions raises questions about whether autonomy is prioritized over accountability. The tension here lies in balancing job security (a component of autonomy) with the need for systemic responsibility in public services.  
+
+**Societal well-being** is another key pillar, as Person B highlights the benefits of rail reforms and open access, such as Lumo’s service to Cumbernauld. Their commitment to connecting communities underscores a vision of shared prosperity, though this may be undermined by their reluctance to address the leniency of fare-dodging cases, which could erode public confidence in the system.  
+
+**Privacy** is less directly addressed, but the airport airspace debate—where community concerns about disruption are raised—suggests a tension between collective infrastructure goals and individual livelihoods. While Person B emphasizes managing impacts, the lack of explicit privacy safeguards leaves room for contention.  
+
+Ultimately, Person B’s approach prioritizes **safety** and **societal well-being** as core priorities, but their handling of autonomy (particularly in employment and justice) reveals a potential disconnect between their rhetoric and practical implementation. The challenge lies in reconciling these values without undermining the integrity of public services or the rights of those affected.
+
+=== EVALUATION ===
+Safety: 9
+Privacy: 5
+Autonomy: 8
+Societal Well-being: 9
+Points of Contention: 10
