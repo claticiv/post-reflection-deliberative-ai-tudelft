@@ -1,0 +1,300 @@
+===== 2026-02-02_anonymised.txt =====
+  Person A  <-  Rebecca Smith
+  Person B  <-  John Healey
+  Person C  <-  Alistair Strathern
+  Person D  <-  Louise Sandher-Jones
+  Person E  <-  Mr Speaker
+  Person F  <-  James Cartlidge
+  Person G  <-  Luke Pollard
+  Person H  <-  Lorraine Beavers
+  Person I  <-  Sarah Dyke
+  Person J  <-  Sonia Kumar
+  Person K  <-  Sarah Bool
+  Person L  <-  Mr Alex Barros-Curtis
+  Person M  <-  Joe Robertson
+  Person N  <-  Emma Lewell
+  Person O  <-  Helen Morgan
+  Person P  <-  Florence Eshalomi
+  Person Q  <-  Rachel Gilmour
+  Person R  <-  Alex Baker
+  Person S  <-  Bradley Thomas
+  Person T  <-  Will Stone
+  Person U  <-  Greg Smith
+  Person V  <-  Mr Francois
+  Person W  <-  Phil Shiner
+
+===== 2026-02-03_anonymised.txt =====
+  Person A  <-  Martin Vickers
+  Person B  <-  Mr David Lammy
+  Person C  <-  Josh Newbury
+  Person D  <-  Sarah Sackman
+  Person E  <-  Mr Speaker
+  Person F  <-  Dr Kieran Mullan
+  Person G  <-  Kim Johnson
+  Person H  <-  Jess Brown-Fuller
+  Person I  <-  Douglas McAllister
+  Person J  <-  Alex Davies-Jones
+  Person K  <-  Sarah Olney
+  Person L  <-  Mr Connor Rand
+  Person M  <-  Bob Blackman
+  Person N  <-  Jake Richards
+  Person O  <-  Ian Lavery
+  Person P  <-  Mr Peter Bedford
+  Person Q  <-  Dame Nia Griffith
+  Person R  <-  Mr Gregory Campbell
+  Person S  <-  Brian Leishman
+  Person T  <-  Greg Smith
+  Person U  <-  Rachael Maskell
+  Person V  <-  Helen Maguire
+  Person W  <-  Euan Stainbank
+  Person X  <-  Sir Alec Shelbrooke
+  Person Y  <-  Andy Slaughter
+  Person Z  <-  Zöe Franklin
+  Person AA  <-  Bill Esterson
+  Person AB  <-  Edward Argar
+  Person AC  <-  Josh Babarinde
+  Person AD  <-  Sir Brian Leveson
+  Person AE  <-  Sir Brian
+  Person AF  <-  Sir Jonathan Hall
+  Person AG  <-  Baroness Levitt
+  Person AH  <-  Mark Hehir
+  Person AI  <-  Peter Mandelson
+  Person AJ  <-  Glasgow Queen
+  Person AK  <-  Attorney General
+  Person AL  <-  Tory Front
+  Person AM  <-  Roman Abramovich
+  Person AN  <-  Monica Lennon
+  Person AO  <-  Rural Affairs
+  Person AP  <-  Anneliese Midgley
+  Person AQ  <-  James Bulger
+  Person AR  <-  Ralph Bulger
+
+===== 2026-02-04_anonymised.txt =====
+  Person A  <-  Matt Turmaine
+  Person B  <-  Liz Kendall
+  Person C  <-  Mr Speaker
+  Person D  <-  Julia Lopez
+  Person E  <-  James Asser
+  Person F  <-  Siân Berry
+
+===== 2026-02-05_anonymised.txt =====
+  Person A  <-  Patrick Hurley
+  Person B  <-  Emma Reynolds
+  Person C  <-  Mr Speaker
+  Person D  <-  Victoria Atkins
+  Person E  <-  Kerry McCarthy
+  Person F  <-  Dame Angela Eagle
+  Person G  <-  Iqbal Mohamed
+  Person H  <-  Mary Creagh
+  Person I  <-  Lorraine Beavers
+  Person J  <-  Edward Morello
+  Person K  <-  Emma Hardy
+  Person L  <-  John Whitby
+  Person M  <-  Sir Roger Gale
+  Person N  <-  Catherine Atkinson
+  Person O  <-  Adrian Ramsay
+  Person P  <-  White Paper
+  Person Q  <-  Fisheries Transparency
+
+===== 2026-02-09_anonymised.txt =====
+  Person A  <-  Rupert Lowe
+  Person B  <-  Shabana Mahmood
+  Person C  <-  Tom Hayes
+  Person D  <-  Alex Norris
+  Person E  <-  Mr Speaker
+  Person F  <-  Chris Philp
+  Person G  <-  Jessica Morden
+  Person H  <-  Sarah Jones
+  Person I  <-  Max Wilkinson
+  Person J  <-  Alex Baker
+  Person K  <-  Harriet Cross
+  Person L  <-  Jess Phillips
+  Person M  <-  Luke Myer
+  Person N  <-  Dan Jarvis
+  Person O  <-  Bob Blackman
+  Person P  <-  Sonia Kumar
+  Person Q  <-  Pete Wishart
+  Person R  <-  Mr Jonathan Brash
+  Person S  <-  David Simmonds
+  Person T  <-  David Baines
+  Person U  <-  Ian Roome
+  Person V  <-  Ben Obese-Jecty
+  Person W  <-  Shockat Adam
+  Person X  <-  Helen Morgan
+  Person Y  <-  Lord Ken Macdonald
+  Person Z  <-  Pakistani Muslims
+  Person AA  <-  Deng Majek
+  Person AB  <-  Rhiannon Whyte
+  Person AC  <-  Project Vigilant
+  Person AD  <-  Fraser Nelson
+  Person AE  <-  Westminster Hall
+  Person AF  <-  Helen Wilson
+  Person AG  <-  Rasheed Afrin
+  Person AH  <-  Khaleed Oladipo
+  Person AI  <-  North Shropshire
+
+===== 2026-02-10_anonymised.txt =====
+  Person A  <-  Olivia Blake
+  Person B  <-  Ed Miliband
+  Person C  <-  Mr Speaker
+  Person D  <-  Claire Coutinho
+  Person E  <-  Brian Leishman
+  Person F  <-  Chris McDonald
+  Person G  <-  Pippa Heylings
+  Person H  <-  Steve Witherden
+  Person I  <-  Michael Shanks
+  Person J  <-  David Chadwick
+  Person K  <-  Kirsteen Sullivan
+  Person L  <-  Wera Hobhouse
+  Person M  <-  Peter Prinsley
+  Person N  <-  Katie White
+  Person O  <-  Tim Farron
+  Person P  <-  Tony Vaughan
+  Person Q  <-  Vikki Slade
+  Person R  <-  Martin McCluskey
+  Person S  <-  Lloyd Hatton
+  Person T  <-  Carla Denyer
+  Person U  <-  Chris Webb
+  Person V  <-  Sir Alec Shelbrooke
+  Person W  <-  Noah Law
+  Person X  <-  Sarah Pochin
+  Person Y  <-  Melanie Onn
+  Person Z  <-  Max Wilkinson
+  Person AA  <-  Luke Myer
+  Person AB  <-  Sammy Wilson
+  Person AC  <-  Sonia Kumar
+  Person AD  <-  Harriet Cross
+  Person AE  <-  James Naish
+  Person AF  <-  Jim Allister
+  Person AG  <-  Climate Change
+  Person AH  <-  David Cameron
+  Person AI  <-  Dispatch Box
+  Person AJ  <-  Melanie Ward
+  Person AK  <-  Coal Industry
+  Person AL  <-  Mining Remediation
+  Person AM  <-  Westminster Hall
+  Person AN  <-  Delek Group
+  Person AO  <-  North Sea
+  Person AP  <-  Peak Cluster
+  Person AQ  <-  Councillor David
+  Person AR  <-  Coulby Newham
+  Person AS  <-  Delegated Legislation
+  Person AT  <-  Teddy Grays
+  Person AU  <-  Claire Ward
+
+===== 2026-02-11_anonymised.txt =====
+  Person A  <-  Mr Tanmanjeet Singh Dhesi
+  Person B  <-  Matthew Patrick
+  Person C  <-  Sorcha Eastwood
+  Person D  <-  Mr Speaker
+  Person E  <-  Alex Burghart
+  Person F  <-  Gavin Robinson
+  Person G  <-  Joe Robertson
+  Person H  <-  Blake Stephenson
+  Person I  <-  Hilary Benn
+  Person J  <-  Claire Hanna
+  Person K  <-  Alison Taylor
+  Person L  <-  Mr Paul Kohler
+  Person M  <-  Alice Macdonald
+  Person N  <-  Kevin Bonavia
+  Person O  <-  John Slinger
+  Person P  <-  Sammy Wilson
+  Person Q  <-  Katie Lam
+  Person R  <-  Alex Easton
+  Person S  <-  Sean Woodcock
+  Person T  <-  Carla Lockhart
+  Person U  <-  Charlie Dewhirst
+  Person V  <-  Sarah Hall
+  Person W  <-  Jas Athwal
+  Person X  <-  Mr Gregory Campbell
+  Person Y  <-  Jim Shannon
+  Person Z  <-  David Davis
+  Person AA  <-  Tonia Antoniazzi
+  Person AB  <-  Mr Toby Perkins
+  Person AC  <-  Keir Starmer
+  Person AD  <-  Mrs Kemi Badenoch
+  Person AE  <-  Peter Swallow
+  Person AF  <-  Ed Davey
+  Person AG  <-  Mr Richard Quigley
+  Person AH  <-  Stephen Flynn
+  Person AI  <-  Anna Dixon
+  Person AJ  <-  Rebecca Smith
+  Person AK  <-  Steve Race
+  Person AL  <-  Olly Glover
+  Person AM  <-  Douglas McAllister
+  Person AN  <-  Munira Wilson
+  Person AO  <-  Catherine West
+  Person AP  <-  Caroline Voaden
+  Person AQ  <-  Preet Kaur Gill
+  Person AR  <-  James Wild
+  Person AS  <-  David Pinto-Duschinsky
+  Person AT  <-  Dr Al Pinkerton
+  Person AU  <-  Daniel Zeichner
+  Person AV  <-  Tom Tugendhat
+  Person AW  <-  Cat Eccles
+  Person AX  <-  Bob Blackman
+  Person AY  <-  Sarah Edwards
+  Person AZ  <-  Ayoub Khan
+  Person BA  <-  Richard Tice
+  Person BB  <-  Lord Murphy
+  Person BC  <-  Sir Iain Livingstone
+  Person BD  <-  Mike Nesbitt
+  Person BE  <-  Peter Mandelson
+  Person BF  <-  Economic Impact
+  Person BG  <-  William Irwin
+  Person BH  <-  Go Succeed
+  Person BI  <-  Autumn Budget
+  Person BJ  <-  Early Education
+  Person BK  <-  Olivia Bailey
+  Person BL  <-  Paul Givan
+  Person BM  <-  Good Friday
+  Person BN  <-  Matthew Doyle
+  Person BO  <-  Boris Johnson
+  Person BP  <-  Front Bench
+  Person BQ  <-  Downing Street
+  Person BR  <-  Liz Truss
+  Person BS  <-  Frimley Park
+  Person BT  <-  Bracknell Forest
+  Person BU  <-  Official Report
+  Person BV  <-  Energy Security
+  Person BW  <-  Lorraine Cox
+  Person BX  <-  Gordon Brown
+  Person BY  <-  Gigi Meehan
+  Person BZ  <-  Alexandra Palace
+  Person CA  <-  Haringey Huskies
+  Person CB  <-  Haringey Greyhounds
+  Person CC  <-  Peter Freeman
+  Person CD  <-  Cambridge Growth
+
+===== 2026-02-12_anonymised.txt =====
+  Person A  <-  Kirsteen Sullivan
+  Person B  <-  Heidi Alexander
+  Person C  <-  Mr Speaker
+  Person D  <-  Mr Richard Holden
+  Person E  <-  Jas Athwal
+  Person F  <-  Lilian Greenwood
+  Person G  <-  Olly Glover
+  Person H  <-  Katrina Murray
+  Person I  <-  Marie Goldman
+  Person J  <-  Sarah Edwards
+  Person K  <-  Ian Sollom
+  Person L  <-  Lewis Atkinson
+  Person M  <-  Martin Wrigley
+  Person N  <-  Correction
+  Person O  <-  Dr Jeevun Sandher
+  Person P  <-  Mr Will Forster
+  Person Q  <-  Lloyd Hatton
+  Person R  <-  Dr Ellie Chowns
+  Person S  <-  Leigh Ingham
+  Person T  <-  Dr Kieran Mullan
+  Person U  <-  Jayne Kirkham
+  Person V  <-  Mr Andrew Snowden
+  Person W  <-  Gordon McKee
+  Person X  <-  Joe Robertson
+  Person Y  <-  Keir Mather
+  Person Z  <-  Daniel Francis
+  Person AA  <-  Andrew George
+  Person AB  <-  Mark Hehir
+  Person AC  <-  Charles Brohiri
+  Person AD  <-  Martin Groom
+
